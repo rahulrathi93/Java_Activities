@@ -20,6 +20,7 @@ class Activity1_4 {
     }
     
     public static void main(String args[]) {
+        // Initialize array
         int[] data = { 9, 5, 1, 4, 3 };
         ascendingSort(data);
         System.out.println("Sorted Array in Ascending Order: ");
